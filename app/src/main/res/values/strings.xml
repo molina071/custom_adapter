@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">custom_adapter</string>
+    <string name="nombre">nombre\n</string>
+    <string name="apellido">apellido</string>
+    <string name="direccion">direccion</string>
+    <string name="telefono">telefono</string>
+</resources>
